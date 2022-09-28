@@ -1,2 +1,2 @@
-# Wedding-Invitation-GA
-A wedding invitation for our friends.
+# we
+My wedding invitation.
